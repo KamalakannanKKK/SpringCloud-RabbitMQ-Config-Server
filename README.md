@@ -1,0 +1,1 @@
+# SpringCloud-RabbitMQ-Config-Server
